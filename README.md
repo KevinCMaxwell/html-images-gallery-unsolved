@@ -31,7 +31,7 @@ This assignment should prove that a student is able to:
 
 - [x] Fork the project to your github account
 - [x] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [x] Initialize playwright and install project packages
   - [x] Use `npm i` to install packages
   - [x] Use `npm run browser-install` to install the browser environment for testing 
@@ -79,23 +79,23 @@ This assignment should prove that a student is able to:
 - [x] Connect the scripts.js file
 - [x] Connect the layout.css file
 - [x] Connect the image-detail.css file
-- [ ] Add the path to the image to let it show up
+- [x] Add the path to the image to let it show up
   - Plants: plant-image.jpg
   - Nature: nature-image.jpg
   - Modern Design: design-image.jpg
   - Space: space-image.jpg
-- [ ] Add the detail page path for each top navigation item:
+- [x] Add the detail page path for each top navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
   - Space: space.html
-- [ ] Add the path to the index.html file for the "Back to Home Page" link
-- [ ] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
+- [x] Add the path to the index.html file for the "Back to Home Page" link
+- [x] Add the absolute unsplash.com path to the collection page for the "More \<collection-name\> Images" link.
   - [More Plants Images](https://unsplash.com/s/photos/plants)
   - [More Nature Images](https://unsplash.com/s/photos/nature)
   - [More Space Images](https://unsplash.com/s/photos/space)
   - [More ModernDesign Images](https://unsplash.com/s/photos/modern-design)
-- [ ] Add the detail page path for each bottom navigation item:
+- [x] Add the detail page path for each bottom navigation item:
   - Plants: plants.html
   - Nature: nature.html
   - Modern Design: modern-design.html
